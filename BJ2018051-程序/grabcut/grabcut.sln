@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grabcut", "grabcut\grabcut.vcxproj", "{C9430E8D-D66C-4229-8814-C64AF19A5AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9430E8D-D66C-4229-8814-C64AF19A5AFA}.Debug|x64.ActiveCfg = Debug|x64
+		{C9430E8D-D66C-4229-8814-C64AF19A5AFA}.Debug|x64.Build.0 = Debug|x64
+		{C9430E8D-D66C-4229-8814-C64AF19A5AFA}.Debug|x86.ActiveCfg = Debug|Win32
+		{C9430E8D-D66C-4229-8814-C64AF19A5AFA}.Debug|x86.Build.0 = Debug|Win32
+		{C9430E8D-D66C-4229-8814-C64AF19A5AFA}.Release|x64.ActiveCfg = Release|x64
+		{C9430E8D-D66C-4229-8814-C64AF19A5AFA}.Release|x64.Build.0 = Release|x64
+		{C9430E8D-D66C-4229-8814-C64AF19A5AFA}.Release|x86.ActiveCfg = Release|Win32
+		{C9430E8D-D66C-4229-8814-C64AF19A5AFA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEDC2053-3338-41D1-89C8-497EC508176A}
+	EndGlobalSection
+EndGlobal
